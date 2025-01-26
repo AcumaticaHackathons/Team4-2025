@@ -1,6 +1,8 @@
-# Team ATS
+![at-your-service-rubber-stamp-seal-vector](https://github.com/user-attachments/assets/d0998f49-4c9f-4fea-b60e-cd0a2b9154d3)
 
-## Team Members
+# Team ATS 
+
+## Team ATS Members
 TEAM 4
 
 |Name|Company|
