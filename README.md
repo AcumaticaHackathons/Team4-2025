@@ -13,7 +13,6 @@ TEAM 4
 |Valerii Vydrin|Acumatica|
 |Josh Wright|Hemasource, LLC|
 |Brian Wingfield|The Rollout Crew|
-|TERRY AYIKWEI OKWABI|FIRMWARE INNOVATIONS AND IT SOLUTIONS|
 |Ketan Katariya|My ERP Partner|
 |Kulvir Kaila|The Answer Company|
 |Lakshminarasimhan Sundarrajan|Bank Brothers Sustainable Ingredients|
