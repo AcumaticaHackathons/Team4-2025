@@ -1,3 +1,3 @@
-# Team 4
+# Team ATS
 
 Acumatica Instance: https://hackathon.acumatica.com/Delta
